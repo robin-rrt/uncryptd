@@ -45,3 +45,40 @@ Prize distribution is subject to change, based on the amount of participation. T
 > All RTs and Content post submissions **MUST** contain **#LearningWithWeb3Incentives** on Twitter **AND** must fill in the [submission form](https://forms.gle/qSjwEj2kxBorA8Tc9) to be considered.
 
 ***You are NOT limited on the type of medium you choose to create your content** (articles, twitter threads, videos,etc.) The aim is to broaden your knowledge and let others know what you learnt. The more informative (but simplified), creative, and well-thought-out submissions, the better.*
+
+# Updates
+We launched Uncryptd on the 5th of July. We managed to gather more than 91 people on our Discord, with the entire event open for all to join we expect the numbers to grow. 
+## For Round 1 - https://twitter.com/uncryptd/status/1412025223646351365?s=20
+To summarize the tasks: 
+- Install MetaMask browser extension Wallet
+- Secure your private keys
+- Connect to Mainnet Polygon
+- Get 0.0005 $MATIC from Faucet (matic.supply)
+- Explore PolygonScan (polygonscan.com)
+- Mint your first NFT on Polygon (mintnft.today)
+- View NFT on OpenSea (opensea.io)
+
+Don't forget to:
+- Follow us on Twitter (https://twitter.com/uncryptd)
+- Retweet our Announcement Post (https://twitter.com/uncryptd/status/1412025223646351365?s=20)
+- Tag 2 friends in that Retweet with #LetsUncryptWeb3
+Before submission! 
+
+Submission Form: https://forms.gle/gnGJQpnf3F7Rvbzq7
+
+Our information hub or your go-to page for everything you would EVER need to know about UNCRYPTD is mentioned on our Notion: https://www.notion.so/UNCRYPTD-v1-84dea80df52c4e8b8f49ae3cebf1e1d0 
+
+We have made the tasks SUPER EASY + INTERESTING for especially newcomers to this space! 
+
+If you ever require any help in completing these tasks we have created a text-based tutorial and a video-based tutorial for you! 
+Text Tutorial: https://www.notion.so/Walkthrough-Tutorial-ROUND-1-8a13bad74e4a4dd8b6d8eaca6928e4aa
+Video Tutorial + Entire process breakdown: https://www.youtube.com/watch?v=ql97IcgkqoY
+
+If you ever want to dive deeper, we have also compiled a Resource section on the Notion page, all you have to do is scroll down. 
+
+We will also be organizing with the help of The Blockchain School several blockchain-related sessions to help you, newbies, onboard onto this space and understand how blockchain, Ethereum, and Web3 functions! 
+
+We are looking to bring sessions for people who are slightly more experienced than the rest, so stay tuned for more announcements. Until then get started on your tasks and reach out to us whenever!
+Discord: https://discord.com/invite/WVbzwfX4By
+Twitter: https://twitter.com/uncryptd
+
