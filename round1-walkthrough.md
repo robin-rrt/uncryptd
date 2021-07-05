@@ -19,9 +19,15 @@ You will be able to see your Public Ethereum address and your account balance (c
 ## Connect to Mainnet Polygon  (https://docs.matic.network/docs/develop/metamask/config-matic/)
 Now that you've set up your wallet, you may notice that you are currently on the "Main Ethereum Network"
 ![Ethereum Mainnet](img/2.png)
+
+
 For this challenge we are not using the Ethereum Network (due to high transaction fees) but a Layer 2 sidechain of Ethereum called Polygon (previously Matic). 
 To start using Polygon, we must first connect to its network, but MetaMask does not have Polygon Network in its "Networks" list by default (click on the dropdown to see the available networks), so we need to add it manually.
+
+
 ![Networks](img/3.png)
+
+
 First, go to the above [mentioned link](https://docs.matic.network/docs/develop/metamask/config-matic/) and toggle to Matic Mainnet section, and follow the instructions provided there to connect to Polygon. Its just a few steps. Don't worry it is easy 😇.
 
 ## Get free MATIC from a Mainnet faucet (https://matic.supply/)
@@ -30,10 +36,18 @@ Awesome! you have added Polygon/Matic Mainnet to your network list. Now make sur
 Go to Matic Supply, which is a mainnet faucet, that provides you with 0.0005 MATIC for free, so that you can get started with transacting on the network. 
 
 ***Note: This MATIC is on the mainnet, and is crowdfunded by people, so that beginner's like you can discover and use Polygon for free. Remember that these MATIC have real world value and are NOT test-tokens. Tokens on Testnets have no value, but on the Mainnet, that is not the case. So if you get any substantial amount of MATIC in the future, please remember to donate and support the faucet, so that more people can use Web3.***
+
 ![Faucet](img/4.png)
+
+
 Once you land on matic.supply, click on the "Connect" button. MetaMask will popup (if it does not, just manually open the MetaMask extension, or reload the page), and it will ask you to give permission to connect to the site. Approve it. (In the backend you just gave your digital signature saying that you want to connect and potentially use this application.)
+
 ![Connected](img/5.png)
-Once you connect your wallet, complete the Captcha, and click "Receive" and you will be able to see a transaction-approved popup notification.  
+
+Once you connect your wallet, complete the Captcha, and click "Receive" and you will be able to see a transaction-approved popup notification. 
+
 ![Sending](img/6.png)
+
 Feel free to read the FAQs on the site, or else move on to the next step.
+
 ![FAQ](img/7.png)
