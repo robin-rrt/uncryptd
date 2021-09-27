@@ -13,6 +13,7 @@ _____________________________________________________________________
 
 ## Install MetaMask extension (https://metamask.io/download)
 ![Metamask](img/1.png)
+
 Go to the above mentioned link and click 'Download', you will be redirected to Chrome Web Store, where you will be able to download the MetaMask extension.
 MetaMask is a digital crypto wallet which lives on your browser. It is an extension for accessing Ethereum enabled distributed applications, or "dApps" in your browser! MetaMask also lets the user create and manage their own identities, so when a dApp wants to perform a transaction and write to the blockchain, the user gets a secure interface to review the transaction, before approving or rejecting it.
 ______________________________________________________
@@ -22,6 +23,7 @@ You will be able to see your Public Ethereum address and your account balance (c
 ______________________________________________________________
 ## Connect to Mainnet Polygon  (https://docs.matic.network/docs/develop/metamask/config-matic/)
 Now that you've set up your wallet, you may notice that you are currently on the "Main Ethereum Network"
+
 ![Ethereum Mainnet](img/2.png)
 
 
