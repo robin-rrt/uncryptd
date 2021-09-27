@@ -9,6 +9,7 @@
 - [ ]  Go to NFT Minter ([https://mintnft.today/](https://mintnft.today/)) and mint your first NFT
 - [ ]  Check Block explorer again
 - [ ]  Go to OpenSea and view your freshly minted NFT. ( [https://opensea.io/](https://opensea.io/) )
+___________________________________________________________________________________________________________________________________________________________________
 
 ## Install MetaMask extension (https://metamask.io/download)
 ![Metamask](img/1.png)
