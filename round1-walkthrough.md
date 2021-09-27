@@ -1,5 +1,4 @@
 # ROUND 1 WALKTHROUGH (Submissions closed)
-____________________________________________________________
 
 ## List of taks to complete
 - [ ]  Install MetaMask extension ([https://metamask.io/download](https://metamask.io/download))
@@ -10,17 +9,17 @@ ____________________________________________________________
 - [ ]  Go to NFT Minter ([https://mintnft.today/](https://mintnft.today/)) and mint your first NFT
 - [ ]  Check Block explorer again
 - [ ]  Go to OpenSea and view your freshly minted NFT. ( [https://opensea.io/](https://opensea.io/) )
-___________________________________________________________________________________________________________________________________________________________________
+_____________________________________________________________________
 
 ## Install MetaMask extension (https://metamask.io/download)
 ![Metamask](img/1.png)
 Go to the above mentioned link and click 'Download', you will be redirected to Chrome Web Store, where you will be able to download the MetaMask extension.
 MetaMask is a digital crypto wallet which lives on your browser. It is an extension for accessing Ethereum enabled distributed applications, or "dApps" in your browser! MetaMask also lets the user create and manage their own identities, so when a dApp wants to perform a transaction and write to the blockchain, the user gets a secure interface to review the transaction, before approving or rejecting it.
-
+______________________________________________________
 ## Set up your private keys and wallet provider (MetaMask)
 Once your extension is installed, you will be greeted to a new page from MetaMask which guides you through setting up your wallet and private keys. (DO NOT SHARE YOUR PRIVATE KEYS OR SEED PHRASE ANYWHERE). 
 You will be able to see your Public Ethereum address and your account balance (currently 0 ETH) once you successfully set up your wallet.
-
+______________________________________________________________
 ## Connect to Mainnet Polygon  (https://docs.matic.network/docs/develop/metamask/config-matic/)
 Now that you've set up your wallet, you may notice that you are currently on the "Main Ethereum Network"
 ![Ethereum Mainnet](img/2.png)
@@ -34,7 +33,7 @@ To start using Polygon, we must first connect to its network, but MetaMask does 
 
 
 First, go to the above [mentioned link](https://docs.matic.network/docs/develop/metamask/config-matic/) and toggle to Matic Mainnet section, and follow the instructions provided there to connect to Polygon. Its just a few steps. Don't worry it is easy 😇.
-
+___________________________________________
 ## Get free MATIC from a Mainnet faucet (https://matic.supply/)
 Awesome! you have added Polygon/Matic Mainnet to your network list. Now make sure you're connected to Polygon Mainnet for the next step. 
 
