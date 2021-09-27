@@ -1,4 +1,4 @@
-# ROUND 1 WALKTHROUGH #### (Submissions for round 1 is closed)
+# ROUND 1 WALKTHROUGH (Submissions closed)
 
 ## List of taks to complete
 - [ ]  Install MetaMask extension ([https://metamask.io/download](https://metamask.io/download))
