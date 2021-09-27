@@ -1,5 +1,5 @@
 # ROUND 1 WALKTHROUGH
-###### (Submissions for round 1 is closed)
+#### (Submissions for round 1 is closed)
 - [ ]  Install MetaMask extension ([https://metamask.io/download](https://metamask.io/download))
 - [ ]  Set up your private keys and wallet provider (MetaMask)
 - [ ]  Connect to Mainnet Polygon ([https://docs.matic.network/docs/develop/metamask/config-matic/](https://docs.matic.network/docs/develop/metamask/config-matic/))
