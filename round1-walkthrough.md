@@ -57,3 +57,6 @@ Once you connect your wallet, complete the Captcha, and click "Receive" and you 
 Feel free to read the FAQs on the site, or else move on to the next step.
 
 ![FAQ](img/7.png)
+_______________________________________
+## - Create Content
+Upon completion of the walkthrough, participants must create their own content, and share it with their network. If not a walkthrough, participants can share any content which they created exploring their experience navigating the Web3 space (what they felt, what they liked, disliked, difficulties faced, their thoughts, etc.). You are NOT limited on the type of medium you choose to create your content (articles, Twitter threads, videos, etc.) The aim is to broaden your knowledge and let others know what you learned. The more informative (but simplified), creative, and well-thought-out submissions, the better. Only content created during the event will be considered, pre-existing work will be largely ignored. 
