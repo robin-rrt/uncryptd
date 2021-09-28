@@ -70,3 +70,4 @@ Users participating in the challenge **must Retweet the Pinned post on our Twitt
 ### **FILL UP THIS FORM FOR ROUND 1 SUBMISSIONS** [https://forms.gle/qSjwEj2kxBorA8Tc9](https://forms.gle/qSjwEj2kxBorA8Tc9)
 
 ### ***After the first round, the top submissions will be selected and will be awarded  MATIC to be used to participate in the 2nd round. All participants in Round 1 with valid & complete submissions will also receive MATIC Rewards.***
+___________________________________
