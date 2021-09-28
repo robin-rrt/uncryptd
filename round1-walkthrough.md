@@ -60,3 +60,13 @@ Feel free to read the FAQs on the site, or else move on to the next step.
 _______________________________________
 ## - Create Content
 Upon completion of the walkthrough, participants must create their own content, and share it with their network. If not a walkthrough, participants can share any content which they created exploring their experience navigating the Web3 space (what they felt, what they liked, disliked, difficulties faced, their thoughts, etc.). You are NOT limited on the type of medium you choose to create your content (articles, Twitter threads, videos, etc.) The aim is to broaden your knowledge and let others know what you learned. The more informative (but simplified), creative, and well-thought-out submissions, the better. Only content created during the event will be considered, pre-existing work will be largely ignored. 
+______________________
+### ***Welcome to Web3, you just took your first steps to decentralization. KUDOS!***
+
+Users participating in the challenge **must Retweet the Pinned post on our Twitter, follow the tutorial walkthrough (above), and create some content (explained below)**
+
+**Please NOTE: YOUR CONTENT IS NOT YOUR NFT. You need to create separate content that could talk about the tasks you had to do in UNCRYPTD, and/or explore topics revolving around the tasks (you could talk about Web3, or Decentralized Apps, or NFTs) and tie them back to the same context.**
+
+### **FILL UP THIS FORM FOR ROUND 1 SUBMISSIONS** [https://forms.gle/qSjwEj2kxBorA8Tc9](https://forms.gle/qSjwEj2kxBorA8Tc9)
+
+### ***After the first round, the top submissions will be selected and will be awarded  MATIC to be used to participate in the 2nd round. All participants in Round 1 with valid & complete submissions will also receive MATIC Rewards.***
