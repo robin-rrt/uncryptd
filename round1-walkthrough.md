@@ -56,7 +56,7 @@ Once you connect your wallet, complete the Captcha, and click "Receive" and you 
 
 Feel free to read the FAQs on the site, or else move on to the next step.
 
-![FAQ](img/7.png){ width=50% }
+![FAQ](img/7.png)
 
 ***Note: If the mainet faucet isn't working, you can use https://macncheese.finance/matic-polygon-mainnet-faucet.php as an alternative.***
 _______________________________________
@@ -64,10 +64,11 @@ _______________________________________
 Go to the transaction link from the matic.supply page. Or else go to https://polygonscan.com/ and copy/paste your Public Address on the search bar to check the transactions on your account.
 _____________________
 ## - Go to NFT Minter (https://mintnft.today/) and mint your first NFT
-_____________________
+__________________
 ## - Check Block explorer again
-______________
+______________________
 ## - Go to OpenSea and view your freshly minted NFT. ( https://opensea.io/ )
+![NFT minting](img/20.png)
 _______________
 ## - Create Content
 Upon completion of the walkthrough, participants must create their own content, and share it with their network. If not a walkthrough, participants can share any content which they created exploring their experience navigating the Web3 space (what they felt, what they liked, disliked, difficulties faced, their thoughts, etc.). You are NOT limited on the type of medium you choose to create your content (articles, Twitter threads, videos, etc.) The aim is to broaden your knowledge and let others know what you learned. The more informative (but simplified), creative, and well-thought-out submissions, the better. Only content created during the event will be considered, pre-existing work will be largely ignored. 
