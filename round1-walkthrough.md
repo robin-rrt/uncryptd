@@ -64,6 +64,7 @@ _______________________________________
 Go to the transaction link from the matic.supply page. Or else go to https://polygonscan.com/ and copy/paste your Public Address on the search bar to check the transactions on your account.
 _____________________
 ## - Go to NFT Minter (https://mintnft.today/) and mint your first NFT
+![NFT minting](img/11.png)
 __________________
 ## - Check Block explorer again
 ______________________
