@@ -56,9 +56,12 @@ Once you connect your wallet, complete the Captcha, and click "Receive" and you 
 
 Feel free to read the FAQs on the site, or else move on to the next step.
 
-![FAQ](img/7.png)
+![FAQ](img/7.png){ width=50% }
+
+***Note: If the mainet faucet isn't working, you can use https://macncheese.finance/matic-polygon-mainnet-faucet.php as an alternative.***
 _______________________________________
 ## - Check Block Explorer for transaction confirmation
+Go to the transaction link from the matic.supply page. Or else go to https://polygonscan.com/ and copy/paste your Public Address on the search bar to check the transactions on your account.
 _____________________
 ## - Go to NFT Minter (https://mintnft.today/) and mint your first NFT
 _____________________
