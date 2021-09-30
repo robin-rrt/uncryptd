@@ -80,7 +80,7 @@ You can check the transaction details of your NFT by clicking on the transaction
 
 ______________________
 ## - Go to OpenSea and view your freshly minted NFT. ( https://opensea.io/ )
-OpenSea is the first and largest peer-to-peer marketplace for cryptogoods and one of the most popular sites for viewing you NFT's.
+OpenSea is the first and largest peer-to-peer marketplace for cryptogoods and one of the most popular sites for viewing NFT's.
 Connect your crypto wallet to opensea and view your freshly minted NFT.
 
 <img src="img/20.png" width="800" height="450">
