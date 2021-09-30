@@ -64,12 +64,25 @@ _______________________________________
 Go to the transaction link from the matic.supply page. Or else go to https://polygonscan.com/ and copy/paste your Public Address on the search bar to check the transactions on your account.
 _____________________
 ## - Go to NFT Minter (https://mintnft.today/) and mint your first NFT
+Fill in the details and upload any JPG,PNG or MP4 file to mint your NFT for free.
+
 <img src="img/11.png" width="800" height="450">
+
+upon completion you will get a transaction hash
+
+<img src="img/12.png" width="600" height="450">
 
 __________________
 ## - Check Block explorer again
+You can check the transaction details of your NFT by clicking on the transaction hash provided after minting.
+
+<img src="img/14.png" width="1000" height="450">
+
 ______________________
 ## - Go to OpenSea and view your freshly minted NFT. ( https://opensea.io/ )
+OpenSea is the first and largest peer-to-peer marketplace for cryptogoods and one of the most popular sites for viewing you NFT's.
+Connect your crypto wallet to opensea and view your freshly minted NFT.
+
 <img src="img/20.png" width="800" height="450">
 
 _______________
