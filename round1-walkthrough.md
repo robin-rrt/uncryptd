@@ -95,7 +95,7 @@ Users participating in the challenge **must Retweet the Pinned post on our Twitt
 
 **Please NOTE: YOUR CONTENT IS NOT YOUR NFT. You need to create separate content that could talk about the tasks you had to do in UNCRYPTD, and/or explore topics revolving around the tasks (you could talk about Web3, or Decentralized Apps, or NFTs) and tie them back to the same context.**
 
-### **FILL UP THIS FORM FOR ROUND 1 SUBMISSIONS** [https://forms.gle/qSjwEj2kxBorA8Tc9](https://forms.gle/qSjwEj2kxBorA8Tc9)
+### **FILL UP THIS FORM FOR ROUND 1 SUBMISSIONS** [https://forms.gle/qSjwEj2kxBorA8Tc9](https://forms.gle/qSjwEj2kxBorA8Tc9) (NOW CLOSED)
 
 ### ***After the first round, the top submissions will be selected and will be awarded  MATIC to be used to participate in the 2nd round. All participants in Round 1 with valid & complete submissions will also receive MATIC Rewards.***
 ___________________________________
