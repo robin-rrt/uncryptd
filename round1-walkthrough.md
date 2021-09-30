@@ -43,7 +43,7 @@ Go to Matic Supply, which is a mainnet faucet, that provides you with 0.0005 MAT
 
 ***Note: This MATIC is on the mainnet, and is crowdfunded by people, so that beginner's like you can discover and use Polygon for free. Remember that these MATIC have real world value and are NOT test-tokens. Tokens on Testnets have no value, but on the Mainnet, that is not the case. So if you get any substantial amount of MATIC in the future, please remember to donate and support the faucet, so that more people can use Web3.***
 
-![Faucet](img/4.png)
+<img src="img/4.png" width="600" height="450">
 
 
 Once you land on matic.supply, click on the "Connect" button. MetaMask will popup (if it does not, just manually open the MetaMask extension, or reload the page), and it will ask you to give permission to connect to the site. Approve it. (In the backend you just gave your digital signature saying that you want to connect and potentially use this application.)
@@ -64,12 +64,14 @@ _______________________________________
 Go to the transaction link from the matic.supply page. Or else go to https://polygonscan.com/ and copy/paste your Public Address on the search bar to check the transactions on your account.
 _____________________
 ## - Go to NFT Minter (https://mintnft.today/) and mint your first NFT
-![NFT minting](img/11.png)
+<img src="img/11.png" width="800" height="450">
+
 __________________
 ## - Check Block explorer again
 ______________________
 ## - Go to OpenSea and view your freshly minted NFT. ( https://opensea.io/ )
-![NFT minting](img/20.png)
+<img src="img/20.png" width="800" height="450">
+
 _______________
 ## - Create Content
 Upon completion of the walkthrough, participants must create their own content, and share it with their network. If not a walkthrough, participants can share any content which they created exploring their experience navigating the Web3 space (what they felt, what they liked, disliked, difficulties faced, their thoughts, etc.). You are NOT limited on the type of medium you choose to create your content (articles, Twitter threads, videos, etc.) The aim is to broaden your knowledge and let others know what you learned. The more informative (but simplified), creative, and well-thought-out submissions, the better. Only content created during the event will be considered, pre-existing work will be largely ignored. 
